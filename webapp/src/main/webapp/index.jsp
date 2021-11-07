@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Techiescorner Simple DevOps Project !!   </h1>
-<h1> Devops Project </h1>
+<h1> Hello, This is a simple java application!   </h1>
+<h1> Sample war deployment </h1>
